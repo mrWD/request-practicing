@@ -1,0 +1,31 @@
+{
+  "name": "vlavrov-week8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "users-list.js",
+  "scripts": {
+    "watch": "webpack-dev-server --hot --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/frontend-school/vpopov-week9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/frontend-school/vpopov-week9/issues"
+  },
+  "homepage": "https://gitlab.com/frontend-school/vpopov-week9#README",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
